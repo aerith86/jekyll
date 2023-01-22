@@ -2,6 +2,7 @@
 layout: page
 title: PowerShell
 permalink: /pwsh/
+toc: true
 ---
 
 PowerShell is my favorite programming language.
